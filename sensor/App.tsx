@@ -50,6 +50,8 @@ export default function App() {
     });
     const UTI = "public.item";
     await Sharing.shareAsync(fileUri, { UTI });
+    setData({ x: 0, y: 0, z: 0 });
+    setCsv("");
   };
 
   const _unsubscribe = () => {

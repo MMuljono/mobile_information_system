@@ -5,5 +5,5 @@ React-Native + Expo + Typescript for client
 ### Sensor
 React-Native + Expo + Typescript for client
 ### Final Project
- React-Native + Expo + Typescript for client
+ React-Native + Expo + Typescript for client <br />
  Express + Prisma + PostgreSQL + Typescript for server

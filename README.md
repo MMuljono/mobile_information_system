@@ -17,3 +17,4 @@ Then start the docker containers to start the server and db:
 ```sh
 docker-compose up
 ```
+
